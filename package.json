@@ -2,6 +2,7 @@
   "name": "batsignal",
   "displayName": "Batsignal",
   "description": "A color theme for bats",
+  "publisher": "tamagui",
   "version": "0.0.1",
   "author": {
     "name": "Nate Wienert"
