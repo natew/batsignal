@@ -3,6 +3,14 @@
   "displayName": "Batsignal",
   "description": "A color theme for bats",
   "version": "0.0.1",
+  "author": {
+    "name": "Nate Wienert"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natew/batsignal.git"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
