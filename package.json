@@ -1,0 +1,21 @@
+{
+  "name": "batsignal",
+  "displayName": "Batsignal",
+  "description": "A color theme for bats",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "batsignal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Batsignal-color-theme.json"
+      }
+    ]
+  }
+}
