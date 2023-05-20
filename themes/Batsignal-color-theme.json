@@ -4,7 +4,7 @@
 	"name": "Batsignal",
 	"colors": {
 		"activityBar.activeBorder": "#000000",
-		"activityBar.inactiveForeground": "#3d3d3d",
+		"activityBar.inactiveForeground": "#ffffff",
 		"checkbox.border": "#0a0a0a",
 		"commandCenter.activeBackground": "#000",
 		"commandCenter.activeForeground": "#ffffff",
