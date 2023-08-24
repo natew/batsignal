@@ -7,6 +7,9 @@
   "author": {
     "name": "Nate Wienert"
   },
+  "scripts": {
+    "publish": "vsce package && vsce publish"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
