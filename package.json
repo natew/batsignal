@@ -8,7 +8,7 @@
     "name": "Nate Wienert"
   },
   "scripts": {
-    "publish": "vsce package && vsce publish"
+    "release": "vsce package && vsce publish"
   },
   "license": "MIT",
   "repository": {
@@ -17,6 +17,9 @@
   },
   "engines": {
     "vscode": "^1.75.0"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.20.1"
   },
   "categories": [
     "Themes"
