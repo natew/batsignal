@@ -3,7 +3,11 @@
   "displayName": "Batsignal",
   "description": "A color theme for bats",
   "publisher": "tamagui",
+<<<<<<< HEAD
   "version": "0.0.5",
+=======
+  "version": "0.0.6",
+>>>>>>> origin/main
   "author": {
     "name": "Nate Wienert"
   },
