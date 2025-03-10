@@ -150,10 +150,7 @@
       "quickInputList.focusBackground": "#000000",
       "quickInputList.focusForeground": "#ffffff",
       "quickInputTitle.background": "#ffffff",
-      "list.hoverBackground": "#f0f0f0",
-      "list.highlightForeground": "#888",
-      "pickerGroup.foreground": "#777",
-      "quickInputList.focusHighlightForeground": "#ffca00"
+      "pickerGroup.foreground": "#777"
   },
   "tokenColors": [
     {
