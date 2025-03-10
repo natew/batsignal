@@ -270,7 +270,7 @@
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#ffff00"
+        "foreground": "#ffff9c"
       }
     },
     {

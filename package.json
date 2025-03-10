@@ -3,7 +3,7 @@
   "displayName": "Batsignal",
   "description": "A color theme for bats",
   "publisher": "tamagui",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": {
     "name": "Nate Wienert"
   },
@@ -30,6 +30,11 @@
         "label": "batsignal",
         "uiTheme": "vs-dark",
         "path": "./themes/Batsignal-color-theme.json"
+      },
+      {
+        "label": "batsignal-light",
+        "uiTheme": "vs",
+        "path": "./themes/Batsignal-light-color-theme.json"
       }
     ]
   }
