@@ -54,7 +54,6 @@
       "editorOverviewRuler.wordHighlightForeground": "#7f7f7f26",
       "editorOverviewRuler.wordHighlightStrongForeground": "#e4f0c099",
       "editorRuler.foreground": "#f4f6fc",
-      "editorSuggestWidget.foreground": "#000",
       "editorWarning.foreground": "#f90",
       "editorWidget.background": "#f4f6fc",
       "editorWidget.border": "#e7ecf2",
@@ -143,14 +142,32 @@
       "titleBar.inactiveBackground": "#fff",
       "titleBar.inactiveForeground": "#bec9d3",
       "widget.shadow": "#0000",
+
+      "editorBracketHighlight.foreground1": "#888888",
+      "editorBracketHighlight.foreground2": "#888888",
+      "editorBracketHighlight.foreground3": "#888888",
+      "editorBracketHighlight.foreground4": "#888888",
+      "editorBracketHighlight.foreground5": "#888888",
+      "editorBracketHighlight.foreground6": "#888888",
+      
+      // Editor suggestions widget (autocomplete dropdown)
+      "editorSuggestWidget.background": "#ffffff",
+      "editorSuggestWidget.border": "#e7ecf2",
+      "editorSuggestWidget.foreground": "#000000",
+      "editorSuggestWidget.highlightForeground": "#ffca00",
+      "editorSuggestWidget.selectedBackground": "#dddddd",
+      "editorSuggestWidget.selectedForeground": "#000000",
+      "editorSuggestWidget.selectedIconForeground": "#000000",
       
       // Command+T menu styling
       "quickInput.background": "#ffffff",
       "quickInput.foreground": "#000000",
-      "quickInputList.focusBackground": "#000000",
-      "quickInputList.focusForeground": "#ffffff",
+      "quickInputList.focusBackground": "#dddddd",
+      "quickInputList.focusForeground": "#000000",
+      "quickInputList.focusIconForeground": "#000000",
       "quickInputTitle.background": "#ffffff",
-      "pickerGroup.foreground": "#777"
+      "pickerGroup.foreground": "#777",
+      "pickerGroup.border": "#e7ecf2"
   },
   "tokenColors": [
     {
